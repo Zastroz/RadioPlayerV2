@@ -62,7 +62,7 @@ NOTE: Make Sure You Have Started A Voice Chat In Your Channel/Group Before Deplo
 ## Run On VPS (The Hard Way)
 
 ```sh
-$ git clone https://github.com/AsmSafone/RadioPlayerV2
+$ git clone https://github.com/zastroz/RadioPlayerV2
 $ cd RadioPlayerV2
 $ sudo apt-get install python3-pip ffmpeg
 $ pip3 install -U pip
